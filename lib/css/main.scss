@@ -28,6 +28,11 @@ a {
   color: $Flame;
 }
 
+p {
+  padding: 20px;
+  margin: 20px;
+}
+
 .search {
   text-align: center;
   margin: 20px;
@@ -56,6 +61,7 @@ h1 {
   font-weight: bold;
   font-family: 'Cormorant', sans-serif;
   text-align: center;
+  margin: 10px;
 }
 
 h2 {
@@ -63,6 +69,13 @@ h2 {
   font-weight: bold;
   font-family: 'Cormorant', sans-serif;
   text-align: center;
+  margin: 10px;
+}
+
+.footer-pic {
+  height: 50px;
+  width: 150px;
+  margin: 20px 10px 0px 175px;
 }
 
 .underlines {
@@ -72,6 +85,11 @@ h2 {
 .entry {
   height: 200px;
   width: 200px;
+}
+
+.robin {
+  display: flex;
+  margin: 0 auto;
 }
 
 footer {
